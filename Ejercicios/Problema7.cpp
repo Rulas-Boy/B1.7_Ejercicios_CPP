@@ -1,10 +1,6 @@
 #include <iostream>
 using namespace std;
 
-float PulgadasAYardas(float In) {
-    return In * (1.0F / 36.0F);
-}
-
 int main() {
     int Num;
 
